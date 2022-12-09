@@ -1,8 +1,0 @@
-streamlit
-vega
-seaborn
-altair
-numpy
-pandas
-matplotlib
-sklearn
